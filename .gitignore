@@ -23,6 +23,7 @@ yarn-error.log*
 
 # Angular environment files
 src/environments/*.ts
+.angular
 
 # Coverage reports
 coverage/
